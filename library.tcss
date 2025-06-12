@@ -1,0 +1,36 @@
+.menu {
+    width: 1fr;
+}
+.display {
+    width: 2fr;
+}
+
+#page {
+    height: 2fr;
+    border: ascii $primary;
+}
+
+#address {
+    height: 1fr;
+    border: ascii $primary;
+}
+
+#bookmarks {
+    border: ascii $primary;
+}
+
+#langoptions {
+    border: ascii $primary;
+}
+
+#search {
+    border: ascii $primary;
+}
+
+#menu_separator {
+    color: $primary;
+}
+
+#browsing_stuff {
+    border: ascii $primary
+}
